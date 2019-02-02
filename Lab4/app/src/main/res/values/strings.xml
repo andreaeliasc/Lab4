@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bienvenido</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Andrea Elias</string>
+    <string name="nav_header_subtitle">eli17048@uvg.edu.gt</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Inicio">Inicio</string>
+    <string name="Proyectos">Proyectos</string>
+    <string name="Direccion">Direccion</string>
+    <string name="title_activity_perfil">perfil</string>
+    <string name="title_activity_ubicacion">ubicacion</string>
+    <string name="url1">https://github.com/eli17048/Laboratorio-2</string>
+    <string name="send_button">Send</string>
+    <string name="url2">https://github.com/eli17048/Laboratorio3</string>
+</resources>
